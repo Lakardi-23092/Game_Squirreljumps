@@ -1,14 +1,36 @@
-# Game Tupai_Melompati_Pohon
-# Maintener
-1. La kardi
-# Dokument/How-to
-1. Sarif Soleman
-2. Imam Faujan
-# Kontributor
-1. Iqra Ramdani
-2. Algifari
-# Deskripsi Projek
-Proyek “Tupai Loncat Pohon” merupakan sebuah aplikasi game 2D berbasis grafika komputer yang dikembangkan menggunakan bahasa pemrograman Python dengan library Pygame. Game ini dirancang untuk menampilkan interaksi grafis dan animasi sederhana melalui penggunaan objek kartun berupa tupai dan pohon sebagai elemen utama permainan.
-Dalam permainan ini, pemain berperan mengendalikan karakter tupai yang harus melompat dari satu pohon ke pohon lainnya secara berurutan. Setiap keberhasilan mendarat di pohon akan meningkatkan skor pemain, sedangkan kegagalan yang mengakibatkan karakter jatuh ke tanah akan mengakhiri permainan (game over). Mekanisme permainan mengandalkan konsep dasar fisika sederhana seperti gravitasi dan kecepatan lompatan, serta deteksi tumbukan (collision detection) antar objek.
+# Game Fighting 1 vs 1
+
+## MAINTAINER
+1. LA KARDI
+
+## DOKUMENT/HOW-TO
+1. SARIF SOLEMAN 
+2. IMAM FAUJAN  
+
+## KONTRIBUTOR
+1. LA KARDI (MAINTAINER
+2. SARIF SOLEMAN
+3. IMAM FAUJAN
+4. IQRA RINDANI
+5. ALGIFARI SUHAEMAN
+
+## DESKRIPSI PROJEK
+Game Fighting 1 vs 1 adalah sebuah permainan berbasis Python yang dikembangkan menggunakan pustaka Pygame, di mana dua karakter saling bertarung dalam satu arena secara langsung (satu lawan satu). Game ini dirancang sebagai permainan 2D fighting yang menampilkan mekanisme pertarungan sederhana namun interaktif, seperti gerakan maju–mundur, melompat, menyerang, dan sistem kesehatan (health bar). Dalam game ini, setiap pemain dapat mengendalikan satu karakter menggunakan keyboard, sehingga memungkinkan duel antar pemain (local multiplayer) atau simulasi pertarungan antar karakter. Setiap karakter memiliki kemampuan dasar berupa pukulan, dan lompatan, serta efek visual untuk meningkatkan pengalaman bermain.
+
+## KEBUTUHAN
+-Python 3.x
+-Pygame
+Install pygame:
+pip install pygame
+
+## CARA MENJALANKAN
+1. Clone repostory
+2. Masuk ke folder project
+3. jalankan:
+   python main.py
+
+## KONTROL 
+-Petarung 1 : W A S D
+-Petarung 2 : Arrow Key
 
 
